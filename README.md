@@ -42,6 +42,3 @@ After installing the necessary software, verify that your computer can detect th
   ```
   This should return the VISA address of your Rigol DG5352 (e.g., `USB0::0x1AB1::0x0642::DG5A123456789::INSTR`).
 
----
-
-Let me know if you encounter any issues during setup!
